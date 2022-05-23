@@ -1,0 +1,16 @@
+opt/
+doc/
+thirdpart
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+*.xml
+code/.ipynb_checkpoints*
+.idea/
+.ipynb_checkpoints/
